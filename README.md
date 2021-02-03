@@ -39,8 +39,8 @@ A page with a contact form containing the firstname, lastname, email, subject of
 - Bootstrap5
 ---
 ## Schemes
-![alt text](shema1.JPG)
-![alt text](shema2.JPG)
+![alt text](./img/shema1.JPG)
+![alt text](.img/shema2.JPG)
 ---
 ## Photo credit
 
