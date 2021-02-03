@@ -1,14 +1,14 @@
-#Bootstrap exercises - Restaurant web-page
+# Bootstrap exercises - Restaurant web-page
 ---
 The aim of this exercise was to introduce us to bootstrap and it fonctionalities. The design of the project was free of choice.
 ---
-##Table of content:
+## Table of content:
 - General info
 - Technologies used
 - Schemes
 - Photo credits
 ---
-##General info
+## General info
 During this exercise, We had to developp a web-page for a fictional restaurant of our choosing. The instructions where as follow:
 
 - Create a repository called restaurant-css-framework in which you must realise a window web page for a restaurant. The franchise is fictive, but the type of food (burger, pizza, asian, …​) is your choice.
@@ -32,17 +32,17 @@ A page with a contact form containing the firstname, lastname, email, subject of
 
 - If you want to make an even more complex website feel free to try new things and make it as beautiful as possible.
 ---
-##Tecnologies used
+## Tecnologies used
 
--HTML5
--CSS3
+- HTML5
+- CSS3
 - Bootstrap5
 ---
-##Schemes
+## Schemes
 ![alt text](shema1.JPG)
 ![alt text](shema2.JPG)
 ---
-##Photo credit
+## Photo credit
 
 - Daan evers
 - Toa Heftiba
