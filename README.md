@@ -40,7 +40,7 @@ A page with a contact form containing the firstname, lastname, email, subject of
 ---
 ## Schemes
 ![alt text](./img/shema1.JPG)
-![alt text](.img/shema2.JPG)
+![alt text](./img/shema2.JPG)
 ---
 ## Photo credit
 
